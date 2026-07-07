@@ -1,4 +1,4 @@
-{
+
     "name": "Multi Agent Custom Automation Engine Solution Accelerator",
     "build": {
         "dockerfile": "Dockerfile"
@@ -12,11 +12,6 @@
             "version": "latest"}
     },
     "customizations": {
-        "vscode": {
-            "extensions": [
-                "dbaeumer.vscode-eslint",
-                "esbenp.prettier-vscode",
-                "GitHub.vscode-github-actions",
                 "ms-azuretools.azure-dev",
                 "ms-azuretools.vscode-azurefunctions",
                 "ms-azuretools.vscode-bicep",
